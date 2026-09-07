@@ -1,0 +1,27 @@
+{
+  "name": "hl_snakes_ladders",
+  "version": "1.0.0",
+  "description": "Snakes and Ladders Game Core",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victor-gesit/hl_snakes_ladders.git"
+  },
+  "author": "Victor Idongesit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victor-gesit/hl_snakes_ladders/issues"
+  },
+  "homepage": "https://github.com/victor-gesit/hl_snakes_ladders#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.29.7",
+    "@babel/preset-typescript": "^7.29.7",
+    "jest": "^30.5.1"
+  }
+}
